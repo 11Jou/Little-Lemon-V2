@@ -1,3 +1,3 @@
-. /api/
-. /api/bookings
-. /api/menu
+### /api/
+### /api/bookings
+### /api/menu
